@@ -16,7 +16,6 @@ import BlackQueen from "../assets/svgComponents/BlackQueen.tsx";
 import WhiteQueen from "../assets/svgComponents/WhiteQueen.tsx";
 import BlackKing from "../assets/svgComponents/BlackKing.tsx";
 import WhiteKing from "../assets/svgComponents/WhiteKing.tsx";
-import { Chess } from "chess.js";
 export const ChessBoard = ({
   chess,
   setBoard,
